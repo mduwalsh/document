@@ -1,0 +1,25 @@
+Nokia 
+Muray Hill, NJ, US 
+
+Dear HR Manager,
+
+I would like to apply for the position of Junior Software Development Engineer at Nokia that has fallen vacant in your company. With my strong academic qualifications and ample experience in software development industry, I believe I am eligible for the job and present my candidacy for the position.
+
+I have successfully completed MS in Computer Science in The University of Tennessee, Knoxville with thesis on 'Efficient Simulation Of A Simple Evolutionary System' where we provide efficient methods of computing genetic algorithm using diploid population model, and its applications in research of population evolution behavior in genetic algorithm. 
+
+During undergraduate studies of BE in Electronics and Communication, I did a mini-project, as requirement of 'Object Oriented Programming' class, on 'Bank Accounting' emulation in C++. Also as final year project, I (with other two team members) designed and developed 'Radio Frequency Linked Heart Beat Monitor And Remote Data Logger' as part of final project in undergraduate using photo-transistor transceiver, micro-controller, RF transceiver and MATLAB.
+
+After undergraduate studies, I worked as software engineer at Deerwalk Services Pvt. Ltd (based on US company Deerwalk Inc.) in Nepal for two years and seven months. During the period, I had opportunities to work in several projects on development of US based health care system applications with different languages and frameworks. I worked in C#, Asp.Net MVC as .Net developer for 1 year and 4 months, and I worked as java developer in Grails framework for 1 year and 3 months. The job help me grow as programmer with versatility and gave me confidence to work in any programming language and framework. I learned and implemented test driven development with agile software. Later I trained other members, fellow and trainees, in team to implement unit tests. Overall, my responsibilities as software engineer at Deerwalk included planning and estimation of project development, fix issues in existing systems, development of new modules, finding optimal solutions to problems, code reviews and training junior developers.
+
+During my graduate studies at The University of Tennessee, I have worked as a graduate teaching assistant for classes 'Algorithm Analysis and Automata' 
+and 'Software Engineering'. I have also been working as graduate research assistant for Dr. Sergey Gavrilets from Ecology and Evolutionary Biology Department 
+where I write codes for efficient simulation of his mathematical models and plotting graphs in C/C++ (mostly C) using 'gnuplot'. Apart from that, I have worked multiple projects involving C++. 
+
+With my strong and dynamic programming background, enthusiastic nature, and logical mind, I believe I can be a integral part of your reputed organization, and hereby, submit my application for the position of the Junior Software Development Engineer. 
+
+Thank you for your kind consideration. Looking forward to hearing positive response from you soon. 
+
+Yours Sincerely,
+Mahendra Duwal Shrestha
+Contact No: (865)-441-7363
+Email: duwal.mahendra@gmail.com or mduwalsh@vols.utk.edu 
