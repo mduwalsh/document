@@ -1,0 +1,24 @@
+City of St. Paul
+Saint Paul, MN, US 
+
+Dear HR Manager,
+
+I would like to apply for the position of Application Programmer Analyst at the City of St. Paul that has fallen vacant in your company. With my strong academic qualifications and ample experience in software development industry, I believe I am eligible for the job and present my candidacy for the position.
+
+I have successfully completed MS degree in Computer Science in The University of Tennessee, Knoxville with thesis on 'Efficient Simulation Of A Simple Evolutionary System' where we provide efficient methods of computing genetic algorithm using diploid population model, and its applications in research of population evolution behavior in genetic algorithm. 
+
+I worked as software engineer at Deerwalk Services Pvt. Ltd (based on US company Deerwalk Inc.) in Nepal for two years and seven months. During the period, I had opportunities to work in several projects on development of US based health care system applications with different languages and frameworks. For a year and 4 months, I worked in services team that service outsourced projects in .Net frameworks using C#, Asp.Net MVC implementing test driven development approach. For a year and 3 months, I worked with products team that develop company's own products in Grails framework (on top of java). During the job, I have a good experience in learning and implementing objected oriented programming following agile development methodology. I also had the opportunities to learn and incorporate unit tests with development in both .Net framework and Grails framework. I fixed bugs in the existing codes, and refactored and optimized old codes, developed new modules. I trained other members, fellow and trainees, in team to implement unit tests. As a full stack developer, I worked in both front end and back end of application development. I have worked in backend database servers like MSSQL and MYSQL. I designed databases, developed new stored procedures, and optimized existing procedures. Together with business analysts, I developed optimized generic script in MYSQL to import staged data from multiple clients to the products' database system. Every project used version control (either SVN or Git) for recording purpose. Overall, my responsibilities as software engineer at Deerwalk included planning and estimation of project development, fixing issues in existing systems, development of new modules, finding optimal solutions to problems, code reviews and training junior developers. The experience gave me confidence on working on any programming language and building on it.
+
+During my graduate studies at The University of Tennessee, I have worked as a graduate teaching assistant for classes 'Algorithm Analysis and Automata' 
+and 'Software Engineering'. I have also been working as graduate research assistant for Dr. Sergey Gavrilets from Ecology and Evolutionary Biology Department 
+where I develop programs for efficient simulation of his mathematical models and plotting graphs in C/C++ using 'gnuplot'. Apart from that, I have worked multiple projects involving parallel computing as graduate course requirements using pthreads, CUDA and openMP. 
+
+I believe my experience and career portray versatility, and eagerness to learn and take new challenges. So, with my strong and dynamic programming background, enthusiastic nature, and logical mind, I believe I can be a integral part of your reputed organization. And I hereby submit my application for the position of the Application Programmer Analystt. 
+
+Thank you for your kind consideration. Looking forward to hearing positive response from you soon. 
+
+Yours Sincerely,
+Mahendra Duwal Shrestha
+Contact No: (865)-441-7363
+Email: duwal.mahendra@gmail.com or mduwalsh@vols.utk.edu 
+
